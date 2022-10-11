@@ -744,12 +744,18 @@ section.lazy-placeholder:after {
 }
 .cid-tjZI4lxWoh .mbr-section-subtitle {
   color: #ffffff;
+  text-align: center;
 }
 .cid-tjZI4lxWoh .btn {
   margin: 0 0 .5rem 0;
 }
+.cid-tjZI4lxWoh .content-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
 .cid-tjZI4lxWoh H2 {
   color: #ffffff;
+  text-align: center;
 }
 .cid-tjZJ7KqwYY .navbar {
   background: #ffffff;
